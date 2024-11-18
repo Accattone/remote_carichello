@@ -1,5 +1,4 @@
 # remote_carichello
-This allows to upload a OGG file to a FTP server.
 
 Una semplice implementazione per creare una pagina web che permette l'upload di file .ogg, utilizzando un backend in Python con Flask. La pagina verifica che il file sia un .ogg e, se lo è, lo carica su un server FTP utilizzando Python.
 
